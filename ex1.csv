@@ -1,0 +1,11 @@
+EmpID,Age,Experience,Department,Salary
+E101,25,2,Sales,30000
+E102,thirty,5,HR,40000
+E103,28,?,IT,50000
+E104,26,3,Finance,?
+E105,,7,IT,70000
+E106,32,five,HR,60000
+E107,29,4,Sales,55000
+E108,27,3,?,48000
+E109,31,6,Finance,sixty thousand
+E110,?,2,IT,45000
